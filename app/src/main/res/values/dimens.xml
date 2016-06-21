@@ -2,4 +2,44 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Sizes-->
+    <dimen name="size_small_24">24dp</dimen>
+    <dimen name="size_medium_56">56dp</dimen>
+    <dimen name="size_large_72">72dp</dimen>
+
+    <!--Vertical spacing-->
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_normal">24dp</dimen>
+    <dimen name="spacing_medium">48dp</dimen>
+    <dimen name="spacing_large_56">56dp</dimen>
+    <dimen name="spacing_large_64">64dp</dimen>
+    <dimen name="spacing_larger">72dp</dimen>
+    <dimen name="spacing_huge">80dp</dimen>
+
+    <!--Margins-->
+    <dimen name="margin_small">16dp</dimen>
+    <dimen name="margin_normal_24">24dp</dimen>
+    <dimen name="margin_normal_32">32dp</dimen>
+    <dimen name="margin_medium_52">52dp</dimen>
+    <dimen name="margin_medium_56">56dp</dimen>
+    <dimen name="margin_large">72dp</dimen>
+    <dimen name="margin_larger">80dp</dimen>
+    <dimen name="margin_huge_96">96dp</dimen>
+    <dimen name="margin_huge_104">104dp</dimen>
+
+    <!--Touch target size-->
+    <dimen name="icon">24dp</dimen>
+    <dimen name="button_height">36dp</dimen>
+    <dimen name="avatar">40dp</dimen>
+    <dimen name="touch_height">48dp</dimen>
+    <dimen name="touch_width">48dp</dimen>
+    
+    <!--Font size-->
+    <dimen name="font_small_12">12sp</dimen>
+    <dimen name="font_small_14">14sp</dimen>
+    <dimen name="font_small_16">16sp</dimen>
+    <dimen name="font_normal">20sp</dimen>
+    <dimen name="font_large">34sp</dimen>
+
 </resources>
